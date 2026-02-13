@@ -1,4 +1,4 @@
-Here is the complete `README.md` file, ready to copy and paste.
+
 
 ```markdown
 # SDPD CS #08: Parsing Internet Resources 📱
