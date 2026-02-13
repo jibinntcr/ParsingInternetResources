@@ -148,3 +148,8 @@ We use **Jetpack Compose** to display the data.
 ```
 
 ```
+## Screenshots
+<img width="1393" height="770" alt="Screenshot 2026-02-13 at 9 35 40 AM" src="https://github.com/user-attachments/assets/19e8e6b4-517b-4b57-8a0c-3b82523a8891" />
+
+<img width="1429" height="814" alt="Screenshot 2026-02-13 at 9 35 54 AM" src="https://github.com/user-attachments/assets/c6c89ba3-f223-415e-bd9a-b18f52995783" />
+
